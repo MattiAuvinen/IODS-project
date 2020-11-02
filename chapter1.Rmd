@@ -6,8 +6,22 @@
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
 
-date()
+date()  
+
 
 ```
 The text continues here.
+
+ **Exercise 1**
+
+# Testing...
+
+I was informed of this this course by the amanuensis of our faculty and I thought it'd be interesting to learn more data science for at least the following reasons:
+* Data science is an interesting field of work
+* and it's very high in demand at the moment
+* to fill up my schedule
+
+I haven't yet looked at the future exercises so I'm not sure what to expect but I'm looking forward to it.
+
+https://github.com/MattiAuvinen/IODS-project.git
 
