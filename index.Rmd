@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+authos: "Matti Auvinen"
 output:
   html_document:
     theme: cosmo
