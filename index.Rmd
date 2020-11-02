@@ -1,6 +1,10 @@
 ---
 title: "IODS course project"
+<<<<<<< HEAD
 author: "Matti Auvinen"
+=======
+authos: "Matti Auvinen"
+>>>>>>> 4f86e936154cfac115cfde183f14d198d36b6277
 output:
   html_document:
     theme: cosmo
